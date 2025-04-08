@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__/
+*.pkl
+/logs/
+/data/processed/
+/results/
+.env

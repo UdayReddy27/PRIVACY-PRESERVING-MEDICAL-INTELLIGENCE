@@ -1,0 +1,11 @@
+matplotlib
+cryptography
+pandas
+numpy
+scikit-learn
+torch
+regex
+PyJWT
+hashlib
+logging
+datetime
